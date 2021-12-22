@@ -1,6 +1,6 @@
 # COSADAMA
 
-![cosadama](../contents/logo_long_2021.png)
+![cosadama](./contents/logo_long_2021.png)
 
 ## __COSADAMA__
 
