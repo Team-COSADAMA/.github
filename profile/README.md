@@ -24,14 +24,12 @@ Super python beginner , a person who has just begun the python or says 'Python i
 
 ## Curriculums
 ### 2020
----
 - [Python Basic Grammar]()
 - [Intro to Data Science]()
 - [Machine Learning with Python]()
 - [Basic SQL]()
 - [Deep Learning from Scratch]()
 ### 2021
----
 - [Python Basic Grammar](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Python-Basic-Grammar)
 - [Intro to Data Science](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Intro-to-Data-Science)
 - [GitHub Guides](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/GitHub-Guides)
