@@ -16,6 +16,27 @@ Our target audience for the __COSADAMA__ is :
 
 Super python beginner , a person who has just begun the python or says 'Python is just all greek to me'.
 
+## Objectives
+- Knowledge of python fundamentals, principles and grammar
+- Knowledge of pandas, numpy, matplotlib, seaborn... All kind of methods for data analysis!
+- Applied hands-on data analysis or even development.
+- Learn from each other
+
+## Curriculums
+### 2020
+---
+- [Python Basic Grammar]()
+- [Intro to Data Science]()
+- [Machine Learning with Python]()
+- [Basic SQL]()
+- [Deep Learning from Scratch]()
+### 2021
+---
+- [Python Basic Grammar](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Python-Basic-Grammar)
+- [Intro to Data Science](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Intro-to-Data-Science)
+- [GitHub Guides](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/GitHub-Guides)
+- [Advanced WebCrawling](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Advanced-WebCrawling)
+- [Basic SQL](https://github.com/Team-COSADAMA/2021-Curriculum/tree/main/Basic-SQL)
 ## Certificate
 ![Certificate for 2021 Members](./profile/contents/Certificate_members_cosadama.png)
 
