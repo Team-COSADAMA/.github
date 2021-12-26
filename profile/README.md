@@ -38,7 +38,7 @@ Super python beginner , a person who has just begun the python or says 'Python i
 ## Certificate
 ![Certificate for 2021 Members](./profile/contents/Certificate_members_cosadama.png)
 
-We issue certificates for members who successfully finished the currifulum including essential courses to improve their programming skills. You can find the members who got issued the certificate by the list down below.
+We issue certificates for members who successfully finished the curriculum including essential courses to improve their programming skills. You can find the members who got issued the certificate by the list down below.
 
 ### 2020
 ---
