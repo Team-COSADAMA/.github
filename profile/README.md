@@ -74,4 +74,4 @@ We issue certificates for members who successfully finished the curriculum inclu
 김윤진, 송혜민, 신윤진, 유혜정, 이정윤, 정찬, 조용주
 ### 2022-1
 
-Soon will be updated
+김윤진, 송혜민, 안지은, 유혜정, 이정윤, 정예은, 정찬, 조용주
