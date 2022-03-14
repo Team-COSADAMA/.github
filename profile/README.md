@@ -57,7 +57,7 @@ We issue certificates for members who successfully finished the curriculum inclu
 신윤진, 조용주
 ### 2022-1
 
-송혜민, 정찬
+정찬
 
 ## Staff
 ### 2020-1
