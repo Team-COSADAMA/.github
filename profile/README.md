@@ -48,6 +48,15 @@ We issue certificates for members who successfully finished the curriculum inclu
 ---
 강동용, 강태영, 김윤진, 김정민, 김후정, 나다경, 박서현, 신혜린, 안지은, 유혜정, 윤한세, 정예은, 최예지
 
+### 2022-1
+---
+#### 파이썬 기초 문법
+최현지, 이명은, 황주애, 윤이지, 정은재, 박상욱, 이다연, 이세희, 김기찬, 홍유정, 박태하, 김효선, 서주영
+
+#### 데이터 분석 입문
+김효선, 최서영, 김후정, 이세희, 이수용, 이명은, 이유라, 진수민, 서주영, 박태하, 윤이지, 윤우성, 최현지, 이다연, 박상욱, 이서현, 이민욱, 박승호, 황주애, 정은재, 김세훈, 이소연, 김기찬, 이연우, 김세민
+
+
 ## Lead
 ### 2020-1,2
 
@@ -56,6 +65,10 @@ We issue certificates for members who successfully finished the curriculum inclu
 
 신윤진, 조용주
 ### 2022-1
+
+정찬
+
+### 2022-2
 
 정찬
 
@@ -75,3 +88,7 @@ We issue certificates for members who successfully finished the curriculum inclu
 ### 2022-1
 
 김윤진, 송혜민, 안지은, 유혜정, 이정윤, 정예은, 정찬, 조용주
+
+### 2022-2
+
+신혜린, 안지은, 유혜정, 이정윤, 이주희, 정예은, 정찬, 조용주
