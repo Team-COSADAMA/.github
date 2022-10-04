@@ -91,4 +91,4 @@ We issue certificates for members who successfully finished the curriculum inclu
 
 ### 2022-2
 
-신혜린, 안지은, 유혜정, 이정윤, 이주희, 정예은, 정찬, 조용주
+신혜린, 안지은, 유혜정, 이정윤, 이주희, 정예은, 정찬, 조용주, 최서영
